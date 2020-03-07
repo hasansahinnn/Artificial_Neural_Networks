@@ -1,3 +1,3 @@
 # Artificial_Neural_Networks
 
-School Project, C# and Python
+University Project, C# and Python
